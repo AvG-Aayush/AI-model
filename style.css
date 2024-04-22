@@ -9,7 +9,8 @@ box-sizing: border-box;
 }
 html{
     font-size: 62.5%;
-    1rem= 10px
+    1rem= 10px;
+  overflow: hidden;
 }
 body{
     }
